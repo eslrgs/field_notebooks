@@ -1,6 +1,6 @@
 # Field Notebooks
 
-Initial Set-up (envname, kernelname, modulename = the name you want to use)
+Initial set-up (envname, kernelname, modulename = the name you want to use)
 
 1) Download Anaconda for Python 3.7 from here:
 
@@ -33,7 +33,7 @@ Initial Set-up (envname, kernelname, modulename = the name you want to use)
             jupyter notebook
 
 
-Working Set-Up
+Working set-up
 
 1) Open Anaconda prompt (Windows) or Terminal (Mac)
 
