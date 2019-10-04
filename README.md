@@ -4,33 +4,33 @@
 
 1) Download Anaconda for Python 3.7 from here:
 
-      hhtps://www.anaconda.com/distribution
+            https://www.anaconda.com/distribution/
 
 2) Open Anaconda Prompt (Windows) or Terminal (Mac)
 
 3) Create environment (might take 5 – 10 mins):
 
-      conda create --name envname python=3.7 anaconda  
+            conda create --name envname python=3.7 anaconda  
 
 4) Activate environment (should take < 10 s):
 
-      conda activate envname
+            conda activate envname
 
 5) Create kernel (should take < 10 s):
 
-      python -m ipykernel install --user --name kernelname
+            python -m ipykernel install --user --name kernelname
 
 6) Install modules not in anaconda (option for future, might take time depending on size of module):
 
-      pip install modulename
+            pip install modulename
 
 7) Navigate to working directory/folder (different syntax for Windows and Mac, Google ‘terminal navigation commands’ for help):
 
-      cd Desktop/Python/Fieldwork
+            cd Desktop/Python/Fieldwork
 
 8) Open Jupyter Notebook in folder you’ve navigated to (should take < 10 s):
 
-      jupyter notebook
+            jupyter notebook
 
 
 # Working set-up
@@ -39,7 +39,7 @@
 
 2) Activate environment (should take < 10 s):
 
-      conda activate envname
+            conda activate envname
 
 3) Navigate to working directory/folder (different syntax for Windows and Mac, Google ‘terminal navigation commands’ for help):
 
