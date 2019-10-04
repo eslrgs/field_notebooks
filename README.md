@@ -1,6 +1,6 @@
-# Field_Notebooks
+# Field Notebooks
 
-Initial set-up (Underlined words = your own words)
+Initial Set-Up (underlined words = your own words)
 
 1) Download Anaconda for Python 3.7 from here:
 
@@ -33,7 +33,7 @@ Initial set-up (Underlined words = your own words)
             jupyter notebook
 
 
-Working set-up
+Working Set-Up
 
 1) Open Anaconda prompt (Windows) or Terminal (Mac)
 
