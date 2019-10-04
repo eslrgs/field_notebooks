@@ -24,7 +24,7 @@ Initial set-up (envname, kernelname, modulename = the name you want to use)
 
             pip install modulename
 
-7) Navigate to working directory/folder (different syntax for Windows and Mac, Google ‘terminal navigation commands’ for help):
+7) Navigate to the working directory/folder you downloaded all of the files in this repository to (different syntax for Windows and Mac, Google ‘terminal navigation commands’ for help):
 
             cd Desktop/Python/Fieldwork
 
