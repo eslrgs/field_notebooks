@@ -1,4 +1,4 @@
-# Field Notebooks
+# Field Notebooks - Start Python Guide
 
 Initial set-up (envname, kernelname, modulename = the name you want to use)
 
