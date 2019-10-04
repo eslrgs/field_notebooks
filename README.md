@@ -1,6 +1,6 @@
 # Field Notebooks
 
-Initial Set-Up (underlined words = your own words)
+Initial Set-up (envname, kernelname, modulename = the name you want to use)
 
 1) Download Anaconda for Python 3.7 from here:
 
