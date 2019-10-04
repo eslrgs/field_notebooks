@@ -1,6 +1,6 @@
 # Field_Notebooks
 
-# Initial set-up (Underlined words = your own words)
+Initial set-up (Underlined words = your own words)
 
 1) Download Anaconda for Python 3.7 from here:
 
@@ -33,7 +33,7 @@
             jupyter notebook
 
 
-# Working set-up
+Working set-up
 
 1) Open Anaconda prompt (Windows) or Terminal (Mac)
 
@@ -43,9 +43,9 @@
 
 3) Navigate to working directory/folder (different syntax for Windows and Mac, Google ‘terminal navigation commands’ for help):
 
-      Example: cd Desktop/Python/Fieldwork
+            cd Desktop/Python/Fieldwork
 4) Open Jupyter Notebook (should take < 10 s):
 
-      jupyter notebook
+            jupyter notebook
 
 5) Internet browser should open Jupyter Notebook, if it doesn’t open Anaconda Prompt or Terminal will provide a link to copy and paste in the browser
